@@ -6,7 +6,7 @@
 # catalog-version 3.1a
 Name:		texlive-nomencl
 Version:	3.1a
-Release:	9
+Release:	10
 Summary:	Produce lists of symbols as in nomenclature
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nomencl
