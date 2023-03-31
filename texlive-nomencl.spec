@@ -1,6 +1,6 @@
 Name:		texlive-nomencl
 Version:	61029
-Release:	1
+Release:	2
 Summary:	Produce lists of symbols as in nomenclature
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nomencl
