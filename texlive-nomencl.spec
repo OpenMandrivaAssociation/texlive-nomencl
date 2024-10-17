@@ -3,7 +3,7 @@ Version:	61029
 Release:	2
 Summary:	Produce lists of symbols as in nomenclature
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nomencl
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nomencl
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nomencl.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nomencl.doc.r%{version}.tar.xz
